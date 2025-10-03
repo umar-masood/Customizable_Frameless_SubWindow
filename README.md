@@ -11,7 +11,7 @@ It provides a custom **title bar**, **close button**, and supports **dark mode**
 - Dark mode and themed icon support.
 - Extend content into titlebar without facing any difficulty
 
-## ScreenShot
+## Screenshot
 <img width="1592" height="847" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/d205e38a-0ebe-4190-a154-84e081ad40a1" />
 
 
