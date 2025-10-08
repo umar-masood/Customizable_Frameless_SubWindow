@@ -25,6 +25,7 @@ public:
 protected:
     void paintEvent(QPaintEvent *event) override;
     bool nativeEvent(const QByteArray &eventType, void *message, qintptr *result) override;
+    void showEvent(QShowEvent *event) override;
 
 private:
     Button* windowButton();
